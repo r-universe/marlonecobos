@@ -1,5 +1,9 @@
 [
   {
+    "package": "nichevol",
+    "oncran": true
+  },
+  {
     "package": "rangemap",
     "oncran": true
   }

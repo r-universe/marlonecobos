@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nichevol"]
+	path = nichevol
+	url = https://github.com/marlonecobos/nichevol
+	shallow = true
+	registered = true
 [submodule "rangemap"]
 	path = rangemap
 	url = https://github.com/marlonecobos/rangemap
