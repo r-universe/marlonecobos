@@ -8,8 +8,3 @@
 	url = https://github.com/marlonecobos/nichevol
 	shallow = true
 	registered = true
-[submodule "rangemap"]
-	path = rangemap
-	url = https://github.com/marlonecobos/rangemap
-	shallow = true
-	registered = true
