@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "kuenm2"]
+	path = kuenm2
+	url = https://github.com/marlonecobos/kuenm2
 [submodule "mop"]
 	path = mop
 	url = https://github.com/marlonecobos/mop
